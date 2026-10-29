@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:flutter_iniciante/models/pessoa.dart';
 import 'package:faker/faker.dart';
 
